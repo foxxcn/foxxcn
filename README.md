@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @foxxcn
-- 👀 I’m interested in Java AI Blockchain...
-- 🌱 I’m currently learning Java Python Web...
-- 💞️ I’m looking to collaborate on AI Blockchain...
-- 📫 How to reach me foxxcnweb@gmail.com
+👋 Hi, I’m @foxxcn
 
-<!---
-foxxcn/foxxcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-change 20230716
---->
+👀 I’m interested in Java, AI, Blockchain, Rust...
+
+🌱 I’m currently learning：![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white) 
+
+💞️ I’m looking to collaborate on AI, Blockchain...
+
+📫 How to reach me:[![Skiff Mail](https://img.shields.io/badge/Skiff-foxxcn@skiff.com-1A8CD8?style=flat-square&logo=Skiff)]()
+
+| ![你的GitHub stats](https://github-readme-stats.vercel.app/api?username=foxxcn&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxxcn&theme=light&layout=compact) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+<!-- 动态生成的内容和徽章可以让你的个人主页看起来更加丰富和有趣 修改20240214-->
