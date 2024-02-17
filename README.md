@@ -2,7 +2,7 @@
 
 👀 I’m interested in Java, AI, Blockchain, Rust...
 
-🌱 I’m currently learning：![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white) 
+🌱 I’m currently learning：![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-blue?style=flat&logo=go)
 
 💞️ I’m looking to collaborate on AI, Blockchain...
 
@@ -11,4 +11,4 @@
 | ![你的GitHub stats](https://github-readme-stats.vercel.app/api?username=foxxcn&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxxcn&theme=light&layout=compact) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<!-- 动态生成的内容和徽章可以让你的个人主页看起来更加丰富和有趣 修改20240214-->
+<!-- 动态生成的内容和徽章可以让你的个人主页看起来更加丰富和有趣 修改20240217-->
