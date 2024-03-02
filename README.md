@@ -11,4 +11,4 @@
 | ![你的GitHub stats](https://github-readme-stats.vercel.app/api?username=foxxcn&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxxcn&theme=light&layout=compact) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<!-- 动态生成的内容和徽章可以让你的个人主页看起来更加丰富和有趣 修改20240217-->
+<!-- 动态生成的内容和徽章可以让你的个人主页看起来更加丰富和有趣 修改20240302-->
