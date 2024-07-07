@@ -1,8 +1,16 @@
+<div style="text-align: center;">
+  <a href="https://ipfs.io/ipns/k51qzi5uqu5dgox7dr4f7525bo8u8t0tslfcoeao06927k0sepmy9tc3ga844t">
+    <img src="./Foxx_ The Tech Prodigy.gif" alt="Foxx The Tech Prodigy" style="width: 100%; max-width: 100%; height: auto;">
+  </a>
+</div>
+
+
 <video width="1024" height="576" controls autoplay loop>
   <source src="https://ipfs.io/ipns/k51qzi5uqu5dgox7dr4f7525bo8u8t0tslfcoeao06927k0sepmy9tc3ga844t" type="video/mp4">
   <source src="https://arweave.net/ylirBLAyN9p6VKNjo1S4UlptZg_3GtWiP1axkajbVrA" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 👋 Hi, I’m @foxxcn
 
@@ -19,4 +27,4 @@
 | ![你的GitHub stats](https://github-readme-stats.vercel.app/api?username=foxxcn&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxxcn&theme=light&layout=compact) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<!-- 动态生成的内容和徽章可以让你的个人主页看起来更加丰富和有趣 修改20240613-->
+<!-- 加入GIF和视频播放虽然没用 修改20240708-->
