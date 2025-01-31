@@ -19,9 +19,9 @@
 
 ### 👋 About Me
 - 👀 Interested in **Web3, Blockchain, Rust, Java, AIGC**...
-- 🌱 Currently learning: ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white)
+- 🌱 Currently learning: ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white) ![Move](https://img.shields.io/badge/-Move-6B4CD3?style=flat-square)
 - 💞️ Looking to collaborate on **Web3, Blockchain, AIGC engineering**...
-- 💻 Building on: ![Solana](https://img.shields.io/badge/-Solana-4E44CE?style=flat-square&logo=Solana&logoColor=white) ![Aptos](https://img.shields.io/badge/-Aptos-000000?style=flat-square&logo=Aptos&logoColor=white) ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
+- 💻 Building on: ![Solana](https://img.shields.io/badge/-Solana-4E44CE?style=flat-square&logo=Solana&logoColor=white) ![Aptos](https://img.shields.io/badge/-Aptos-4A90E2?style=flat-square) ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white) ![Sui](https://img.shields.io/badge/-Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white)
 
 ### 📫 Reach Me
 [![Gmail](https://img.shields.io/badge/Gmail-foxxcnweb@gmail.com-1A8CD8?style=flat-square&logo=Gmail&logoColor=white)](mailto:foxxcnweb@gmail.com) [![X](https://img.shields.io/badge/-@jikkofu-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/jikkofu)
@@ -29,12 +29,12 @@
 ---
 
 ### 🛠️ Tech Stack
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white) ![Move](https://img.shields.io/badge/-Move-6B4CD3?style=flat-square) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=foxxcn&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxxcn&theme=light&layout=compact) |
+| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=foxxcn&show_icons=true&theme=radical&cache_seconds=1800) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxxcn&theme=light&layout=compact&cache_seconds=1800) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ---
@@ -43,5 +43,4 @@
   <h3>Let's Connect and Build the Future Together! 🚀</h3>
 </div>
 
----
-<!-- 美化邮箱更新 修改20241002 -->
+<!-- 美化logo 修改20250131 -->
